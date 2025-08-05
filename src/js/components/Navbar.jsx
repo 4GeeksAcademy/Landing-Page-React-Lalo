@@ -1,6 +1,6 @@
 import React from "react";
 
-function navbar(props){
+const navbar= ()=> {
 return (<nav class="navbar bg-body-secondary">
         <div class="container-fluid">
         <a class="navbar-brand" href="#">StartBootstrap</a>
